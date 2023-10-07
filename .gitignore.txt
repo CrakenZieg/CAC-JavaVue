@@ -5,3 +5,5 @@
 05-Arquitectura
 06-Scrum
 07-Javascript
+
+*.pdf
