@@ -32,7 +32,7 @@ nav {
 /* banner */
 .banner {
 	height: 85vh;
-	background-image: url("assests/ba1.jpg");
+	background-image: url("/assests/ba1.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -40,8 +40,9 @@ nav {
 	height: 100%;
 	width: 100%;
 	background-color: rgba(35, 35, 35, 0.5);
-	> .card,
-	.card-header {
+	.card,
+	.card-header,
+    .card-footer {
 		background: none;
 		border: none;
 	}
